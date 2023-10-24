@@ -1,6 +1,4 @@
 # Osmosis contracts
-[![Contracts](https://img.shields.io/github/actions/workflow/status/lod12k/cw-osmo/cw.yml?branch=master&label=contract-build-tests)](https://github.com/lod12k/cw-osmo/actions/workflows/cw.yml)
-[![Security audit](https://github.com/lod12k/cw-osmo/actions/workflows/audit.yml/badge.svg)](https://github.com/lod12k/cw-osmo/actions/workflows/audit.yml)
 
 Cosmwasm contracts to connect Juno and Osmosis zone.
 
